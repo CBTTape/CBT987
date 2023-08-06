@@ -1,0 +1,11 @@
+2023-08-06 08:53:41.604778 - Initialized conversion of CBT987
+2023-08-06 08:53:41.670878 - Received CBT.V505.FILE987.PDS from FILE987.XMI 
+2023-08-06 08:53:41.673304 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:53:41.674240 - Found @FILE987.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/@FILE987
+2023-08-06 08:53:41.675287 - Found DSMF.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/DSMF
+2023-08-06 08:53:41.676277 - Found DSMF$.jcl (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/DSMF$
+2023-08-06 08:53:41.677204 - Found SMFMON.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/SMFMON
+2023-08-06 08:53:41.678146 - Found SMFMON$.jcl (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/SMFMON$
+2023-08-06 08:53:41.679043 - Found WAITT.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/WAITT
+2023-08-06 08:53:41.680020 - Found WAITT$.jcl (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/WAITT$
+2023-08-06 08:53:41.680933 - Found WAITT#.txt (text/plain) in CBT.V505.FILE987.PDS, moved to PDS/WAITT#
