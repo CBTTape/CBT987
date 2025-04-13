@@ -1,0 +1,10 @@
+2025-04-14 00:43:40.423860 - Received CBT.V508.FILE987.PDS from FILE987.XMI 
+2025-04-14 00:43:40.424710 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:43:40.424794 - Found @FILE987.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/@FILE987
+2025-04-14 00:43:40.424872 - Found DSMF.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/DSMF
+2025-04-14 00:43:40.424940 - Found DSMF$.jcl (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/DSMF$
+2025-04-14 00:43:40.425006 - Found SMFMON.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/SMFMON
+2025-04-14 00:43:40.425064 - Found SMFMON$.jcl (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/SMFMON$
+2025-04-14 00:43:40.425130 - Found WAITT.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/WAITT
+2025-04-14 00:43:40.425188 - Found WAITT$.jcl (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/WAITT$
+2025-04-14 00:43:40.425245 - Found WAITT#.txt (text/plain) in CBT.V508.FILE987.PDS, moved to PDS/WAITT#
